@@ -1,8 +1,15 @@
 the first edit
 haigit
+<<<<<<< HEAD
+Sreekanth editing from new laptop
+=======
 
 --------
 editing starts by sreekanth from laptop
+<<<<<<< HEAD
 
 -----
 edit from old laptop
+=======
+>>>>>>> fb33ef51c806cab8c6c3961be2d6edc8b98a3af5
+>>>>>>> 9a91f0c9281d2bf0543136877b18d09b5a97b990
